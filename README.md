@@ -80,7 +80,7 @@ I produce atmospheric instrumental music — hip-hop, jazz, house, and chillout 
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smshahbaj&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=smshahbaj&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=smshahbaj&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/followers/smshahbaj?label=Followers&style=for-the-badge&color=2196F3" /> <img src="https://img.shields.io/github/stars/smshahbaj?label=Stars&style=for-the-badge&color=FFD700" /> <img src="https://komarev.com/ghpvc/?username=smshahbaj&label=Profile%20Views&style=for-the-badge&color=blueviolet" /> </p>
 
 ---
 
