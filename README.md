@@ -38,7 +38,6 @@ I like building things end-to-end — from backend architecture to UI polish to 
 | 📊 **[Sheet Manager](https://sheetmanager.com)** | Sheet/data management tool | Web |
 | 🌐 **[Xefna](https://xefna.com)** | Web platform | Web |
 
-*(Repos for these are being made public — check back soon or ping me!)*
 
 ---
 
