@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://smshahbaj.com"><img src="https://img.shields.io/badge/Portfolio-smshahbaj.com-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://x.com/SmShahbaj"><img src="https://img.shields.io/badge/X-@SmShahbaj-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/sm.shahbaj"><img src="https://img.shields.io/badge/Instagram-@sm.shahbaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sm-shahbaj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-sm.shahbaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
